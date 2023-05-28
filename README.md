@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RodrigoPagliusi
 - 👀 I’m interested in Data Analytics, Data Science and Data Engineering
 - 🌱 I’m currently Python and Power BI
-- :collision:Certified on Excel VBA and SQL
+- :collision: Certified on Excel VBA and SQL
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me: rppagliusi@gmail.com
 
