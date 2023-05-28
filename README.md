@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodrigoPagliusi
-- 👀 I’m interested in Data Analytics and Python
-- 🌱 I’m currently learning Python, Power BI, Excal VBA and SQL
+- 👀 I’m interested in Data Analytics, Data Science and Data Engineering
+- 🌱 I’m currently learning Python, Power BI, Excel VBA and SQL
 - 💞️ I’m looking to collaborate on Data Analytics projects
 - 📫 How to reach me: rppagliusi@gmail.com
 
